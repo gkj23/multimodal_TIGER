@@ -1,0 +1,13 @@
+*.json
+*.pyc
+*.tar
+*.pt
+*.yaml
+**/Experiments/*
+**/result/*
+**/logs/*
+**/old_exp/*
+*.ckpt
+*.out
+*.log
+**/Experiments_old/*
